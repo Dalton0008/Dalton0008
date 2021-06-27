@@ -8,9 +8,9 @@
  -->
 - 🔭 I’m currently working on **building my Agency and reputation as a Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://daltonpineault.ca](https://daltonpineault.ca)
+- 👨‍💻 All of my projects are available at [daltonpineault.ca](https://daltonpineault.ca)
 
-- 📝 I regularly write articles on [https://daltonpineault.ca/blog](https://daltonpineault.ca/blog)
+- 📝 I regularly write articles on [daltonpineault.ca/blog](https://daltonpineault.ca/blog)
 
 - 💬 Ask me about **Larevel, WordPress, & NodeJS**
 
