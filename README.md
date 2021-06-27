@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Dalton</h1>
 <h3 align="center">A passionate Web Developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalton0008&label=Profile%20views&color=0e75b6&style=flat" alt="dalton0008" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalton0008&label=Profile%20views&color=0e75b6&style=flat" alt="dalton0008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalton0008" alt="dalton0008" /></a> </p>
-
+ -->
 - 🔭 I’m currently working on **building my Agency and reputation as a Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://daltonpineault.ca](https://daltonpineault.ca)
@@ -30,7 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Dalton0008"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dalton0008" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalton0008&show_icons=true&locale=en&layout=compact" alt="dalton0008" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalton0008&show_icons=true&locale=en" alt="dalton0008" /></p>
