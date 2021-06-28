@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [daltonpineault.ca](https://daltonpineault.ca)
 
-- 📝 I regularly write articles on [daltonpineault.ca/blog](https://daltonpineault.ca/blog)
+<!-- - 📝 I regularly write articles on [daltonpineault.ca/blog](https://daltonpineault.ca/blog) -->
 
 - 💬 Ask me about **Larevel, WordPress, & NodeJS**
 
-- 📫 How to reach me **daltonpineault@gmail.com**
+- 📫 You can reach me by email at **me@daltonpineault.ca**
 
 - ⚡ Fun fact **I'm powered by coffee**
 
